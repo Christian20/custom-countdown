@@ -14,7 +14,7 @@ body {
 }
 
 /* Video Background */
-.video-background {
+.video-background { 
   position: fixed;
   right: 0;
   bottom: 0;
